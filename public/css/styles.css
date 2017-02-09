@@ -1,0 +1,15 @@
+.h1 {
+	margin-left: 210px;
+}
+
+.image { 
+   position: relative; 
+   width: 100%;
+   margin-left: 40px;
+   }
+
+   .modal {
+   	width: 1200px;
+   	height: 750px;
+   	margin-left: 100px;
+   }
